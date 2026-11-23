@@ -1,0 +1,16 @@
+﻿regla,severidad,registros,detalle
+Geometría inválida,alta,4,Ring Self-intersection
+Polígono menor a 50 m²,media,16,Posibles restos de digitalización o parques sin dimensión real
+Polígono muy alargado (compacidad < 0.05),baja,63,Posibles slivers; revisar si son corredores o errores
+Solape entre parques (>= 5 m²),alta,27,"Área total solapada: 137,830 m²"
+Código de parque duplicado,media,6,"03-035, 05-065, 08-830"
+Geometría exactamente duplicada,alta,2,-
+Coordenada lejos del polígono (> 100 m),media,9,Mediana de distancia en toda la capa: 0 m
+Nulos en Tipo_de_Parque,baja,5,0.1 % de los registros
+Nulos en Fecha_de_incorporación,baja,3,0.1 % de los registros
+Nulos en TIPOLOGIA,alta,3870,72.9 % de los registros
+Nulos en NIVEL,baja,1,0.0 % de los registros
+Nulos en RULEID,baja,4,0.1 % de los registros
+Nulos en Administra,alta,5170,97.4 % de los registros
+Localidad fuera del catálogo oficial,baja,1,SANATFE
+Campo SHAPE.AREA en grados² (no en m²),media,5308,"Mediana 1.50e-07; el área real mediana es 1,889 m²"

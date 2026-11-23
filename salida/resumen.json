@@ -1,0 +1,52 @@
+{
+  "parques_analizados": 5301,
+  "area_total_parques_ha": 3570.4,
+  "hexagonos_h3_res8": 577,
+  "area_hexagono_km2": 0.769,
+  "pct_parques_mediana_hex": 5.65,
+  "pct_parques_p90_hex": 14.69,
+  "hex_menos_1pct": 69,
+  "hex_mas_10pct": 126,
+  "parques_por_hex_max": 48,
+  "bolsillo_total": 1645,
+  "top_localidades_area_ha": {
+    "ENGATIVA": 584.0,
+    "SUBA": 493.5,
+    "SANTAFE": 348.5,
+    "KENNEDY": 322.6,
+    "USAQUEN": 255.7
+  },
+  "top_localidades_n_parques": {
+    "ENGATIVA": 553,
+    "SUBA": 994,
+    "SANTAFE": 82,
+    "KENNEDY": 562,
+    "USAQUEN": 465
+  },
+  "por_tipo": {
+    "ESCENARIO DEPORTIVO": {
+      "n": 10,
+      "area_ha": 52.2
+    },
+    "PARQUE DE BOLSILLO": {
+      "n": 1645,
+      "area_ha": 102.0
+    },
+    "PARQUE METROPOLITANO": {
+      "n": 34,
+      "area_ha": 881.5
+    },
+    "PARQUE REGIONAL": {
+      "n": 1,
+      "area_ha": 162.1
+    },
+    "PARQUE VECINAL": {
+      "n": 3511,
+      "area_ha": 2048.0
+    },
+    "PARQUE ZONAL": {
+      "n": 95,
+      "area_ha": 334.5
+    }
+  }
+}

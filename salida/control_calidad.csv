@@ -1,0 +1,9 @@
+﻿regla,registros,accion
+Registros leídos,5308,-
+Geometrías inválidas,4,make_valid()
+Parques propuestos (no existentes),3,excluidos
+Localidad con error de digitación (SANATFE),1,corregido a SANTAFE
+Parques en Sumapaz (localidad rural),4,excluidos del análisis urbano
+Códigos de parque duplicados,3,se conservan (polígonos distintos); el área se calcula sobre la unión
+Geometrías vacías,0,ninguna
+Registros analizados,5301,-
